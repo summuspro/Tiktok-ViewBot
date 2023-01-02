@@ -1,0 +1,4 @@
+bettercolors
+pystyle
+sha256
+requests
